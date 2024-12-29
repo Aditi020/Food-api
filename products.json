@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Cheese Burger",
+        "description": "A delicious cheese burger with all the fixings.",
+        "category": "Burger",
+        "price": 9.99,
+        "imageUrl": "https://images.pexels.com/photos/1030975/pexels-photo-1030975.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/1030975/pexels-photo-1030975.jpeg",
+            "https://images.pexels.com/photos/1002666/pexels-photo-1002666.jpeg"
+        ]
+    },
+    {
+        "name": "Pepperoni Pizza",
+        "description": "A classic pepperoni pizza with a perfect blend of cheese.",
+        "category": "Pizza",
+        "price": 12.99,
+        "imageUrl": "https://images.pexels.com/photos/1142933/pexels-photo-1142933.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/1142933/pexels-photo-1142933.jpeg",
+            "https://images.pexels.com/photos/1002587/pexels-photo-1002587.jpeg"
+        ]
+    },
+    {
+        "name": "Veggie Burger",
+        "description": "A healthy veggie burger with all the crunchy vegetables.",
+        "category": "Burger",
+        "price": 8.99,
+        "imageUrl": "https://images.pexels.com/photos/2516127/pexels-photo-2516127.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/2516127/pexels-photo-2516127.jpeg",
+            "https://images.pexels.com/photos/1030975/pexels-photo-1030975.jpeg"
+        ]
+    },
+    {
+        "name": "Chicken Sandwich",
+        "description": "A crispy chicken sandwich with lettuce and tomato.",
+        "category": "Sandwich",
+        "price": 7.99,
+        "imageUrl": "https://images.pexels.com/photos/1067042/pexels-photo-1067042.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/1067042/pexels-photo-1067042.jpeg",
+            "https://images.pexels.com/photos/2991109/pexels-photo-2991109.jpeg"
+        ]
+    },
+    {
+        "name": "Fish Tacos",
+        "description": "Delicious fish tacos with fresh vegetables and a tangy sauce.",
+        "category": "Taco",
+        "price": 11.49,
+        "imageUrl": "https://images.pexels.com/photos/2372718/pexels-photo-2372718.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/2372718/pexels-photo-2372718.jpeg",
+            "https://images.pexels.com/photos/2547736/pexels-photo-2547736.jpeg"
+        ]
+    },
+    {
+        "name": "Margherita Pizza",
+        "description": "Classic Margherita pizza with fresh mozzarella and basil.",
+        "category": "Pizza",
+        "price": 10.99,
+        "imageUrl": "https://images.pexels.com/photos/708658/pexels-photo-708658.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/708658/pexels-photo-708658.jpeg",
+            "https://images.pexels.com/photos/1004042/pexels-photo-1004042.jpeg"
+        ]
+    },
+    {
+        "name": "Classic Hot Dog",
+        "description": "A classic hot dog served in a soft bun with mustard.",
+        "category": "Hot Dog",
+        "price": 5.99,
+        "imageUrl": "https://images.pexels.com/photos/1593533/pexels-photo-1593533.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/1593533/pexels-photo-1593533.jpeg",
+            "https://images.pexels.com/photos/2258298/pexels-photo-2258298.jpeg"
+        ]
+    },
+    {
+        "name": "Vegetarian Pizza",
+        "description": "A healthy vegetarian pizza loaded with fresh veggies.",
+        "category": "Pizza",
+        "price": 13.49,
+        "imageUrl": "https://images.pexels.com/photos/1409927/pexels-photo-1409927.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/1409927/pexels-photo-1409927.jpeg",
+            "https://images.pexels.com/photos/2215042/pexels-photo-2215042.jpeg"
+        ]
+    },
+    {
+        "name": "Coke",
+        "description": "A refreshing Coke served chilled.",
+        "category": "Beverage",
+        "price": 2.99,
+        "imageUrl": "https://images.pexels.com/photos/1102012/pexels-photo-1102012.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/1102012/pexels-photo-1102012.jpeg",
+            "https://images.pexels.com/photos/2590997/pexels-photo-2590997.jpeg"
+        ]
+    },
+    {
+        "name": "Iced Coffee",
+        "description": "A chilled iced coffee served with ice cubes.",
+        "category": "Beverage",
+        "price": 3.49,
+        "imageUrl": "https://images.pexels.com/photos/3768746/pexels-photo-3768746.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/3768746/pexels-photo-3768746.jpeg",
+            "https://images.pexels.com/photos/4064714/pexels-photo-4064714.jpeg"
+        ]
+    },
+    {
+        "name": "Fresh Juice",
+        "description": "A refreshing blend of fresh fruits served chilled.",
+        "category": "Beverage",
+        "price": 4.99,
+        "imageUrl": "https://images.pexels.com/photos/4593465/pexels-photo-4593465.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/4593465/pexels-photo-4593465.jpeg",
+            "https://images.pexels.com/photos/4467343/pexels-photo-4467343.jpeg"
+        ]
+    },
+    {
+        "name": "French Fries",
+        "description": "Crispy golden French fries served with ketchup.",
+        "category": "Snack",
+        "price": 3.99,
+        "imageUrl": "https://images.pexels.com/photos/2562927/pexels-photo-2562927.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/2562927/pexels-photo-2562927.jpeg",
+            "https://images.pexels.com/photos/2732920/pexels-photo-2732920.jpeg"
+        ]
+    },
+    {
+        "name": "Chicken Wings",
+        "description": "Crispy chicken wings served with barbecue sauce.",
+        "category": "Snack",
+        "price": 6.49,
+        "imageUrl": "https://images.pexels.com/photos/3037045/pexels-photo-3037045.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/3037045/pexels-photo-3037045.jpeg",
+            "https://images.pexels.com/photos/3568165/pexels-photo-3568165.jpeg"
+        ]
+    },
+    {
+        "name": "Cheese Nachos",
+        "description": "Crispy nachos with melted cheese and salsa.",
+        "category": "Snack",
+        "price": 5.49,
+        "imageUrl": "https://images.pexels.com/photos/2090511/pexels-photo-2090511.jpeg",
+        "availability": true,
+        "additionalImages": [
+            "https://images.pexels.com/photos/2090511/pexels-photo-2090511.jpeg",
+            "https://images.pexels.com/photos/2124300/pexels-photo-2124300.jpeg"
+        ]
+    }
+]
