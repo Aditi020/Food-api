@@ -88,7 +88,7 @@
         "description": "A healthy vegetarian pizza loaded with fresh veggies.",
         "category": "Pizza",
         "price": 13.49,
-        "imageUrl": "https://images.pexels.com/photos/1409927/pexels-photo-1409927.jpeg",
+        "imageUrl": "https://res.cloudinary.com/dlaklw43h/image/upload/v1735543634/P5_ruy3qp.png",
         "availability": true,
         "additionalImages": [
             "https://images.pexels.com/photos/1409927/pexels-photo-1409927.jpeg",
