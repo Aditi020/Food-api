@@ -1,5 +1,173 @@
 [
     {
+        "name": "Beef Burger",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Burger",
+        "price": 24.0,
+        "imageUrl": "B0101",
+        "availability": true,
+        "additionalImages": [
+            "B0102",
+            "B0103"
+        ]
+    },
+    {
+        "name": "Cheese Burger",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Burger",
+        "price": 25.0,
+        "imageUrl": "B0201",
+        "availability": true,
+        "additionalImages": [
+            "B0202",
+            "B0203"
+        ]
+    },
+    {
+        "name": "Classic Cheeseburger",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Burger",
+        "price": 27.0,
+        "imageUrl": "B0301",
+        "availability": true,
+        "additionalImages": [
+            "B0302",
+            "B0303"
+        ]
+    },
+    {
+        "name": "Fresh Burger",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Burger",
+        "price": 35.0,
+        "imageUrl": "B0401",
+        "availability": true,
+        "additionalImages": [
+            "B0402",
+            "B0403"
+        ]
+    },
+    {
+        "name": "Cheese Pizza",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Pizza",
+        "price": 115.0,
+        "imageUrl": "P0101",
+        "availability": true,
+        "additionalImages": [
+            "P0102",
+            "P0103"
+        ]
+    },
+    {
+        "name": "Margarita Pizza",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Pizza",
+        "price": 110.0,
+        "imageUrl": "P0201",
+        "availability": true,
+        "additionalImages": [
+            "P0202",
+            "P0203"
+        ]
+    },
+    {
+        "name": "Seafood Pizza",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Pizza",
+        "price": 120.0,
+        "imageUrl": "P0301",
+        "availability": true,
+        "additionalImages": [
+            "P0302",
+            "P0303"
+        ]
+    },
+    {
+        "name": "Pepperoni Mushroom Pizza",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Pizza",
+        "price": 130.0,
+        "imageUrl": "P0401",
+        "availability": true,
+        "additionalImages": [
+            "P0402",
+            "P0403"
+        ]
+    },
+    {
+        "name": "Chicken Mushroom Pizza",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Pizza",
+        "price": 140.0,
+        "imageUrl": "P0501",
+        "availability": true,
+        "additionalImages": [
+            "P0502",
+            "P0503"
+        ]
+    },
+    {
+        "name": "Basil Vegetarian Pizza",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Pizza",
+        "price": 35.0,
+        "imageUrl": "P0601",
+        "availability": true,
+        "additionalImages": [
+            "P0602",
+            "P0603"
+        ]
+    },
+    {
+        "name": "Supreme Pizza",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Pizza",
+        "price": 150.0,
+        "imageUrl": "P0701",
+        "availability": true,
+        "additionalImages": [
+            "P0702",
+            "P0703"
+        ]
+    },
+    {
+        "name": "Lettuce Sandwich",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Sandwich",
+        "price": 24.0,
+        "imageUrl": "S0101",
+        "availability": true,
+        "additionalImages": [
+            "S0102",
+            "S0103"
+        ]
+    },
+    {
+        "name": "Tuna Sandwich",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Sandwich",
+        "price": 26.0,
+        "imageUrl": "S0201",
+        "availability": true,
+        "additionalImages": [
+            "S0202",
+            "S0203"
+        ]
+    },
+    {
+        "name": "Ham Cheese Sandwich",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+        "category": "Sandwich",
+        "price": 28.0,
+        "imageUrl": "S0301",
+        "availability": true,
+        "additionalImages": [
+            "S0302",
+            "S0303"
+        ]
+    },
+    {
         "name": "Cheese Burger",
         "description": "A delicious cheese burger with all the fixings.",
         "category": "Burger",
@@ -88,7 +256,7 @@
         "description": "A healthy vegetarian pizza loaded with fresh veggies.",
         "category": "Pizza",
         "price": 13.49,
-        "imageUrl": "https://res.cloudinary.com/dlaklw43h/image/upload/v1735543634/P5_ruy3qp.png",
+        "imageUrl": "https://images.pexels.com/photos/1409927/pexels-photo-1409927.jpeg",
         "availability": true,
         "additionalImages": [
             "https://images.pexels.com/photos/1409927/pexels-photo-1409927.jpeg",
