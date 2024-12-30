@@ -4,7 +4,7 @@
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
         "category": "Burger",
         "price": 24.0,
-        "imageUrl": "B0101",
+        "imageUrl": "https://res.cloudinary.com/dlaklw43h/image/upload/v1735543626/B2_cguhsf.jpg",
         "availability": true,
         "additionalImages": [
             "B0102",
