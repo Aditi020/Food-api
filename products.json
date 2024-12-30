@@ -148,7 +148,7 @@
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
         "category": "Sandwich",
         "price": 26.0,
-        "imageUrl": "S0201",
+        "imageUrl": "https://res.cloudinary.com/dlaklw43h/image/upload/v1735543629/S2_se1igi.png",
         "availability": true,
         "additionalImages": [
             "S0202",
